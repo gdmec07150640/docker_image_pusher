@@ -4,3 +4,4 @@ php:7.4-fpm
 composer
 mysql:5.7
 rabbitmq:3-management
+rabbitmq:3.12-management
